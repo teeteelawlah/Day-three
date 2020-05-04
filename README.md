@@ -1,2 +1,3 @@
 # Day-three
-https://teeteelawlah.github.io/Day3/
+
+https://github.com/teeteelawlah/Day-three
